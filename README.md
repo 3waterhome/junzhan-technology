@@ -2,6 +2,9 @@
 
 - 首頁：index.html
 - 創客設備：equipment.html
+- xTool 全系列：xtool.html
+- Bambu Lab 全系列：bambu.html
+- LaserPecker 全系列：laserpecker.html
 - 教育機器人：robotics.html
 - 教學與研習：education.html
 - 關於鈞展：about.html
@@ -17,7 +20,7 @@
 Facebook：https://www.facebook.com/GinShius
 LINE：@501ubdkg，依京水工作室既有公開聯絡資訊。
 
-產品圖片及資料來源：xTool、MATRIX Robotics 原廠。
+產品圖片及資料來源：xTool、Bambu Lab、LaserPecker、MATRIX Robotics 原廠。品牌圖片來源見 brand-image-sources.json；系列導覽包含現行與既有機型，供貨與版本依洽詢確認。
 教學與空間影像來源：https://www.chickpt.com.tw/company/YqRmJ8eYx5Zd
 公司服務方向依使用者說明與京水工作室公開介紹整理。
 
