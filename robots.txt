@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://3waterhome.github.io/junzhan-technology/sitemap.xml
