@@ -11,6 +11,7 @@
 - 聯絡諮詢：contact.html
 - F2 詳細產品頁：xtool-f2.html
 - O1 詳細產品頁：xtool-o1.html
+- M2 詳細產品頁：xtool-m2.html（模組、應用、原廠影片、材料指南、規格與 FAQ）
 
 所有頁面共用 styles.css、app.js 與 assets/ 圖片，請一起保留。
 產品詢價連結會將主題與型號帶入聯絡頁與 Google 表單需求說明。訪客在嵌入的 Google 表單中提交即可收集問題，不需另外寄信。回覆儲存位置、通知與必填欄位由 Google 表單擁有人設定。
