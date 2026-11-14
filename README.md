@@ -4,6 +4,7 @@
 - 創客設備：equipment.html
 - xTool 全系列：xtool.html
 - Bambu Lab 全系列：bambu.html
+- Bambu Lab A1 詳細產品頁：bambu-a1.html
 - LaserPecker 全系列：laserpecker.html
 - 教育機器人：robotics.html
 - 教學與研習：education.html
