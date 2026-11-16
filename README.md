@@ -10,6 +10,7 @@
 - 教育機器人：robotics.html
 - 教學與研習：education.html
 - 關於鈞展：about.html
+- 耗材購物：shop.html。訂購清單使用現有 Google 表單收集，表單擁有人可在「回覆」開啟新回覆電子郵件通知。
 - 聯絡諮詢：contact.html
 - F2 詳細產品頁：xtool-f2.html
 - O1 詳細產品頁：xtool-o1.html
