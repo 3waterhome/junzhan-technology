@@ -1,4 +1,4 @@
-const orderForm = document.currentScript.dataset.orderForm;
+const { orderForm, orderField } = document.currentScript.dataset;
 const orderItems = new Map();
 const orderList = document.getElementById('shop-items');
 const emptyMessage = document.getElementById('shop-empty');
@@ -55,9 +55,8 @@ for (const form of document.querySelectorAll('.shop-choice')) {
 sendOrder.addEventListener('click', () => {
   const url = new URL(orderForm);
   url.searchParams.set('usp', 'pp_url');
-  url.searchParams.set('entry.620315794', '主機與配件配置');
   const lines = [...orderItems.values()].map(describeItem);
-  url.searchParams.set('entry.586340792', '【耗材訂購需求】\n' + lines.join('\n') + '\n\n其他需求：');
+  url.searchParams.set(orderField, lines.join('\n'));
   // Keep the cart available if the customer returns to adjust it.
   window.open(url.href, '_blank', 'noopener,noreferrer');
 });
